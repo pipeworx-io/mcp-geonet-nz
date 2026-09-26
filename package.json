@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-geonet-nz",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "GeoNet New Zealand MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6021401f70091eb71f990068aaff5733758ee999197586e9021d521ef7600acd",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-7d2ad840dd0c0ee1372c9c92b4fd5cf3375316bb78bb6993fe2bff02076359a4",
+    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
   }
 }
