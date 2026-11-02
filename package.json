@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-geonet-nz",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "GeoNet New Zealand MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "geonet-nz",
     "gatewaySlug": "geonet-nz",
-    "sourceHash": "v1-4dc969ee88248567e91c2b09384bc13ee8f32d4f7470f617320446542b3116d0",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-44068d00ee659305dcccbcccac7e686f98cc248ba446bf719a66989699b384d8",
+    "sourceCommit": "030233f6b150a38a44421f88a5fcbad123f0fea8"
   }
 }
